@@ -37,4 +37,4 @@ substitutions:
 
   _LOG_BUCKET:  alx-fis3g-release-logs
   _LANGUAGE: python
-  _PROJECT_NAME:  python_template
+  _PROJECT_NAME:  cloud_function_template
