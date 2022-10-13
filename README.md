@@ -1,4 +1,4 @@
-# Python Template
+# Cloud Function Template
 
 Template for general `Python` development.
 
